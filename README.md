@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/D5616AQF02NSnIqla_A/profile-displaybackgroundimage-shrink_350_1400/0/1719348430626?e=1726099200&v=beta&t=B9Hv5mIgUr_-6SbkYMpT1saxV5NaU1wjq4TcTKPeZV4)
 <h1 align="center">Hi 👋, I'm Jatin Nagarwal</h1>
 <h3 align="left">Greetings! I'm Jatin Nagarwal, a passionate computer science Engineer with a penchant for exploring the realms of coding and technology.
-🎓 Currently on a quest to unravel the mysteries of computer science, I'm here to share my journey, projects, and insights with the vibrant GitHub community</h3>
+🎓 Currently on a quest to unravel the mysteries of computer science, I'm here to share my journey, projects, and insights with the vibrant GitHub community</h3> 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> </p>
 
